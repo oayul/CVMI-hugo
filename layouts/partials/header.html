@@ -23,26 +23,26 @@
   <section id="container" class="">
 
       <!--header start-->
-      <header class="header black-bg">
-            <div class="toggle-nav">
+	  <img src="/img/cell_img4.png" width="100%" >
+      <div class="header black-bg">
+            <!--div class="toggle-nav">
                 <i class="fa fa-bars"></i>
                 <div class="icon-reorder tooltips" data-original-title="Toggle Navigation" data-placement="bottom"></div>
-            </div>
+            </div-->
 
             <!--logo start-->
-			<!-- a href="/" class="logo"><img src="/img/hugo-logo.png" style="height: 40px; vertical-align: bottom;"--></a>
             <!--logo end-->
             <div class="nav title-row" id="top_menu">
                 <h1 class="nav top-menu">{{.Site.Title}}</h1>
 				<h2 class="nav">Las Vegas, Nevada, 1 July, 2016, PM.</h2>
             </div>
-      </header>
+      </div>
       <!--header end-->
 
-{{ partial "menu.html" . }}
 
       <!--main content start-->
       <section id="main-content">
+		{{ partial "menu.html" . }}
           <section class="wrapper">
 
               <!--<div class="row">-->

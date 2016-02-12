@@ -1,4 +1,4 @@
-baseurl = "localhost"
+baseurl = "https://oayul.github.io/"
 languageCode = "en-us"
 title = "Computer	Vision	for	Microscopy	Image	Analysis (CVMI)"
 MetaDataFormat = "yaml"
@@ -6,24 +6,6 @@ MetaDataFormat = "yaml"
 [params]
 
 [[menu.main]]
-	name = "General"
-	identifier = "general"
-	weight = 1
-	url = "/general/"
-[[menu.main]]
-	name = "Program"
-	identifier = "program"
-	weight = 2
-[[menu.main]]
-	name = "Presentation"
-	identifier = "presentation"
-	weight = 3
-[[menu.main]]
-	name = "Registration"
-	identifer = "registration"
-	weight = 4
-[[menu.main]]
-	name = "Travel"
-	identifer = "travel"
-	weight = 5
-
+    name = "Submission"
+	weight = 6
+	url = "http://cvpr2016.thecvf.com/submission/timeline"

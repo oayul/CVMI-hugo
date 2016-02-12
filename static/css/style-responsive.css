@@ -1,12 +1,10 @@
 @media (max-width: 768px) {
 
     .header {
-        position: relative;
-		height: 50%;
-		min-height: 10%;
-		z-index: 1999;
-		background-image: url("/img/desk-long.jpg") no-repeat center center fixed;
-		background-size: cover;
+		//height: 300px;
+		//z-index: 1999;
+		//background: url("/img/desk-long.jpg") no-repeat center center fixed;
+		//background-size: cover;
     }
 
     /*sidebar*/
