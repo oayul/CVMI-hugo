@@ -1,11 +1,11 @@
 ---
 date: 2016-02-12T11:03:08-05:00
-title: Call For Paper
+title: Call for Papers
 menu:
   main:
     weight: 2
 ---
-## Call For Paper
+## Call for Papers
 -------
 
 High-throughput microscopy enables researchers to acquire thousands of images automatically over a matter of hours. This makes it possible to conduct large-scale, image-based experiments for biological discovery. The main challenge and bottleneck in such experiments is the conversion of “big visual data” into interpretable information and hence discoveries. Visual analysis of large-scale image data is a daunting task. Cells need to be located and their phenotype (e.g., shape) described. The behaviors of cell components, cells, or groups of cells need to be analyzed. The cell lineage needs to be traced. Not only do computers have more “stamina” than human annotators for such tasks, they also perform analysis that is more reproducible and less subjective. The post-acquisition component of high-throughput microscopy experiments calls for effective and efficient computer vision techniques.

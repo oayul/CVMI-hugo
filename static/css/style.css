@@ -315,6 +315,7 @@ ul.sidebar-menu li.active a i {
 }
 
 #main-content {
+	text-align: justify;
     margin-left: 0px;
     line-height: 1.8;
     font-size: 18px;
@@ -363,7 +364,7 @@ h1.top-menu {
     margin-top: -5px;
 }
 .title-row {
-    margin-top: 1px;
+    margin-top: 0px;
 	padding-top: 10px;
     margin-left: 16px;
 	height: 40%;

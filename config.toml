@@ -5,7 +5,3 @@ MetaDataFormat = "yaml"
 
 [params]
 
-[[menu.main]]
-    name = "Submission"
-	weight = 6
-	url = "http://cvpr2016.thecvf.com/submission/timeline"

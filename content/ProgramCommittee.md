@@ -2,66 +2,43 @@
 date: 2016-02-11T23:32:03-05:00
 title: Program Committee
 menu:
-  main:
-    weight: 3
+   main:
+     weight: 3
 ---
 ## Program Committee
 -----------
-Prof. Ryoma Bise 
+**Ryoma Bise**
+(National Institute of Informatics, Japan)
 
-National Institute of Informatics, Japan
+**Gustavo Carneiro** 
+(University of Adelaide, Australia)
 
------------
-Prof. Gustavo Carneiro 
+**Hang Chan** 
+(Lawrence Berkeley National Laboratory)
 
-University of Adelaide, Australia
+**Junzhou Huang** 
+(University of Texas Arlington)
 
------------
-Prof. Hang Chan 
+**Tao Ju** 
+(WUSTL)
 
-Lawrence Berkeley National Laboratory
+**Hwee Kuan Lee** 
+(A*STAR, Singapore)
 
------------
-Prof. Junzhou Huang 
+**Imari Sato** 
+(National Institute of Informatics, Japan)
 
-University of Texas Arlington
+**Yang Song** 
+(The University of Sydney, Australia)
 
------------
-Prof. Tao Ju 
+**Hang Su** 
+(Tsinghua University, China)
 
-WUSTL
+**Lin Yang** 
+(University of Florida)
 
------------
-Prof. Hwee Kuan Lee 
+**Tao Wan** 
+(Beihang University, China)
 
-A*STAR, Singapore
-
------------
-Prof. Imari Sato 
-
-National Institute of Informatics, Japan
-
------------
-Prof. Yang Song 
-
-The University of Sydney, Australia
-
------------
-Prof. Hang Su 
-
-Tsinghua University, China
-
------------
-Prof. Lin Yang 
-
-University of Florida
-
------------
-Prof. Tao Wan 
-
-Beihang University, China
-
------------
-Prof. Guorong Wu 
-
-University of North Carolina
+**Guorong Wu** 
+(University of North Carolina)
