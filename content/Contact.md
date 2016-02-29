@@ -8,7 +8,7 @@ title: Contact
 ## Contact
 
 -------------
-If you have any question, please feel free to contact us.
+If you have any questions, please feel free to contact us.
 
 Workshop program: Mei Chen [meichen@albany.edu](mailto:meichen@albany.edu)
 

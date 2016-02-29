@@ -12,7 +12,7 @@ High-throughput microscopy enables researchers to acquire thousands of images au
 
 
 This workshop intends to draw more visibility and interest to this challenging yet fruitful 
-field, and establish a platform to foster inHdepth idea exchange and collaboration. Authors 
+field, and establish a platform to foster in-depth idea exchange and collaboration. Authors 
 are invited to submit original and innovative papers. We aim for broad scope, topics of 
 interest include but are not limited to:
 
@@ -26,3 +26,4 @@ interest include but are not limited to:
   * Texture analysis
   * GPU processing
   * Big image data to knowledge
+  * Image datasets and benchmarking

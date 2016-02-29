@@ -10,9 +10,9 @@ title: Important Dates
 
 -------
 
-  Date           | Event
+   Event | Date
   -------------  | -------------
-  Monday, **April 4, 2016**, 11:59pm, EDT | Paper submission deadline.
-  Monday, **April 25, 2016** | Notification of acceptance.
-  Monday, **May 2, 2016**, 11:59pm, EDT | Camera-ready submission deadline.
-  Friday, **July 1, 2016**, PM | Workshop date.
+   Paper submission deadline: |Monday, **April 4, 2016**, 11:59pm, EDT
+   Notification of acceptance:|Monday, **April 25, 2016**, EDT
+ Camera-ready submission deadline:|  Monday, **May 2, 2016**, 11:59pm, EDT
+ Workshop date:| Friday, **July 1, 2016**, PM, EDT

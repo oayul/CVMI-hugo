@@ -10,23 +10,32 @@ menu:
 **Ryoma Bise**
 (National Institute of Informatics, Japan)
 
+**Andrew P. Bradley**
+(The University of Queensland, Australia)
+
 **Gustavo Carneiro** 
 (University of Adelaide, Australia)
 
-**Hang Chan** 
+**Hang Chang** 
 (Lawrence Berkeley National Laboratory)
 
 **Junzhou Huang** 
 (University of Texas Arlington)
 
 **Tao Ju** 
-(WUSTL)
+(Washington University in St. Louis)
 
 **Hwee Kuan Lee** 
 (A*STAR, Singapore)
 
+**Jiyan Pan**
+(Google)
+
 **Imari Sato** 
 (National Institute of Informatics, Japan)
+
+**Xubo Song**
+(Oregon Health and Science University)
 
 **Yang Song** 
 (The University of Sydney, Australia)
@@ -34,11 +43,14 @@ menu:
 **Hang Su** 
 (Tsinghua University, China)
 
-**Lin Yang** 
-(University of Florida)
-
 **Tao Wan** 
 (Beihang University, China)
 
 **Guorong Wu** 
 (University of North Carolina)
+
+**Lin Yang** 
+(University of Florida)
+
+**S. Kevin Zhou**
+(Siemens Corporate Research)

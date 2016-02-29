@@ -3,7 +3,7 @@ date: 2016-02-12T11:39:34-05:00
 title: Submission
 menu:
   main:
-    weight: 6
+    weight: 5
 ---
 ## Submission
 -------------
@@ -15,7 +15,7 @@ hard deadlines; no extensions will be given. Please submit manuscript here:
 Submitted papers must be no longer than 8 pages following the official CVPR guideline. 
 Papers longer than 8 pages or violating formatting specifications will not be reviewed. For 
 more details on the submission process and for templates to use with LaTeX and Word, 
-please consult [CVPR 2016](http://cvpr2016.thecvf.com/) webpage. Authors will be required to transfer, to the IEEE, 
+please consult [CVPR 2016]( http://cvpr2016.thecvf.com/submission/main_conference/author_guidelines) webpage. Authors will be required to transfer, to the IEEE, 
 copyrights for any papers published in the conference proceedings. 
 
 Any submission that derives from an earlier paper must provide a significant new 
